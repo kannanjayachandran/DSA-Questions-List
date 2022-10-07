@@ -9,3 +9,4 @@
 7. [Two Sum Problem](https://leetcode.com/problems/two-sum/)
 8. Given a string reverse it word by word. There might be multiple spaces between words.
 9. [Product Sum difference](https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/)
+10. [Sqrt(x) without using sqrt function](https://leetcode.com/problems/sqrtx/)
